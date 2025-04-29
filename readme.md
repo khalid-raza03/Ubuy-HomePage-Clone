@@ -1,6 +1,6 @@
 # Project Name  
 
-**Nexcent** , a responsive Marketing website template design  **HTML, Sass, and Bootstrap**.  
+**Ubuy HomePage Clone** , a responsive Marketing website template design  **HTML, css, and Bootstrap**.  
 
 ## Features  
 - fully responsive for all screen sizes
@@ -10,7 +10,7 @@
 - Well optimised with google insight techniques
 
 ## Demo  
-👉 [Live Preview](https://khalid-raza03.github.io/Nexcent/)  
+👉 [Live Preview](https://khalid-raza03.github.io/Ubuy-HomePage-Clone/)  
 
 ## Screenshots
 ![Project Screenshot](./images/image.png)
@@ -27,6 +27,6 @@
 1. __Clone the repo:__  
 
    ```bash
-   git clone https://github.com/khalid-raza03/Nexcent.git
+   git clone https://github.com/khalid-raza03/Ubuy-HomePage-Clone.git
    ```
 2. Open `index.html` in a browser.  
