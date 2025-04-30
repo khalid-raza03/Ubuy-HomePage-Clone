@@ -1464,7 +1464,6 @@ body {
     width: 540px;
     height: 240px;
     transform: translateX(-35px);
-    transform: translateY(-10%);
   }
 }
 
@@ -1502,15 +1501,14 @@ body {
   .mySwiper4 .brand-bg img {
     width: 320px;
     height: 190px;
-    transform: translateX(-35px);
-    transform: translateY(-10%);
+    transform: translateX(-6px) !important;
   }
   .mySwiper4 .prem-content {
     bottom: 30%;
     left: 54%;
   }
   .prem-content .prem-btn {
-    width: 48% !important;
+    width: 45% !important;
   }
 }
 /* premium product categories */

@@ -4,9 +4,9 @@
 
 ## Features  
 - fully responsive for all screen sizes
-- component based design 
-- coverflow effect using swiper js
-- beautiful optimized animations
+- cross browser compatibility 
+- Sliders using Swiper.js library
+- Beautiful optimized animations
 - Well optimised with google insight techniques
 
 ## Demo  

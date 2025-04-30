@@ -192,11 +192,11 @@ var swiper4 = new Swiper(".mySwiper4", {
     nextEl: ".mySwiper4 .swiper-button-next",
     prevEl: ".mySwiper4 .swiper-button-prev",
   },
-  autoplay: {
-    delay: 3000,
-    disableOnInteraction: false,
-  },
-  slidesPerView: 1, // Show only one slide at a time
+  // autoplay: {
+  //   delay: 3000,
+  //   disableOnInteraction: false,
+  // },
+  slidesPerView: 1, 
   spaceBetween: 0,
   loop: true,
 });
