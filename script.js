@@ -1,5 +1,3 @@
-//smooth scroll
-
 // scroll to top button
 // Get the button
 let mybutton = document.getElementById("ubuyScrollBtn");
@@ -192,10 +190,10 @@ var swiper4 = new Swiper(".mySwiper4", {
     nextEl: ".mySwiper4 .swiper-button-next",
     prevEl: ".mySwiper4 .swiper-button-prev",
   },
-  // autoplay: {
-  //   delay: 3000,
-  //   disableOnInteraction: false,
-  // },
+  autoplay: {
+    delay: 3000,
+    disableOnInteraction: false,
+  },
   slidesPerView: 1, 
   spaceBetween: 0,
   loop: true,
@@ -256,7 +254,7 @@ function initializeSwipers() {
         spaceBetween: 20,
         loop: true,
         pagination: { el: ".swiper-pagination", clickable: true },
-        // autoplay: { delay: 3000, disableOnInteraction: false },
+        autoplay: { delay: 3000, disableOnInteraction: false },
         breakpoints: {
           1200: { slidesPerView: 2 },
           480: { slidesPerView: 2 },
